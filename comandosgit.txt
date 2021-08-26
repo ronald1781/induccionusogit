@@ -2,8 +2,20 @@
 Uso de comandos de git 
 apertura de uso de comandos git
 A. Se debe descargar e instalar el git 
+para crea una carpeta es mkdir nombre carpeta 
+para crear un archivo type null > nombre archivo 
 
-1.-comandos
+comandos basicos de git
  git init 
  configuracion de usuario
- git config --global
+ git config --global user.name "nombreusuario"
+ git config --global user.email "correousuario"
+
+ git status 
+ git add archivo 
+git commit -m "comentario" 
+ver commit 
+git log 
+genera un codigo 
+ver commit reducido
+git log --oneline 
