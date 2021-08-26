@@ -1,0 +1,9 @@
+
+Uso de comandos de git 
+apertura de uso de comandos git
+A. Se debe descargar e instalar el git 
+
+1.-comandos
+ git init 
+ configuracion de usuario
+ git config --global
