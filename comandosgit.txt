@@ -19,3 +19,4 @@ git log
 genera un codigo 
 ver commit reducido
 git log --oneline 
+uso de comando git diff 
