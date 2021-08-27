@@ -5,6 +5,10 @@ A. Se debe descargar e instalar el git
 para crea una carpeta es mkdir nombre carpeta 
 para crear un archivo type null > nombre archivo 
 
+uso de comandos merge 
+git switch master 
+git merge rama
+
 comandos basicos de git
  git init 
  configuracion de usuario
