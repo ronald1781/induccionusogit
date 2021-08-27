@@ -35,3 +35,18 @@ git checkout version "fenos"
 
 con comando git checkout frenos nos cambiamos a version frenos
 verificamos con git branch 
+
+creando repo en <i class="fa fa-github
+…or create a new repository on the command line
+echo "# induccionusogit" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ronald1781/induccionusogit.git
+git push -u origin main" aria-hidden="true"></i> 
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/ronald1781/induccionusogit.git
+git branch -M main
+git push -u origin main 
