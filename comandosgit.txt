@@ -61,6 +61,10 @@ UNIR RAMAS
 git checkout rama master o adicional
 git merge rama 
 
+ver ramas con grafico
+
+git log --oneline --graph
+
 creando repo en <i class="fa fa-github
 …or create a new repository on the command line
 echo "# induccionusogit" >> README.md
