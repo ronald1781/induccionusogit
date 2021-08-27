@@ -23,3 +23,6 @@ uso de comando git diff
 
 restaurar un archivo al ultimo commit 
 git checkout -- archivo / archivos
+
+para agregar varios archivos a la vez 
+git add -A/--all 
