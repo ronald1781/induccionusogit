@@ -1,3 +1,11 @@
+Analogia de Bicicleta
+
+Primera llanta
+Segunda llanta
+Cuerpo
+Silla 
+Manubrio
+
 
 Uso de comandos de git 
 apertura de uso de comandos git
@@ -26,8 +34,14 @@ git checkout -- archivo / archivos
 
 para agregar varios archivos a la vez 
 git add -A/--all o .
+
+
+git restor archivo o punto para todo los cambios antes del commit 
+
+manejo de ramas
+
 comando git branch 
-creamos una version con 
+creamos una version/rama con 
 git branch nombreversion
 
 nos cambiamos de version con
@@ -36,8 +50,8 @@ git checkout tambien permite moverte en el tempo entre los commit
 
 con comando git checkout frenos nos cambiamos a version frenos
 verificamos con git branch 
-
-git restor archivo o punto para todo los cambios antes del commit 
+moverse tambien entre rama 
+git switch rama
 
 
 creando repo en <i class="fa fa-github
