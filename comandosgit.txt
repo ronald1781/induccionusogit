@@ -1,3 +1,11 @@
+Analogia de Bicicleta
+
+Primera llanta
+Segunda llanta
+Cuerpo
+Silla 
+Manubrio
+
 
 Uso de comandos de git 
 apertura de uso de comandos git
@@ -29,4 +37,40 @@ restaurar un archivo al ultimo commit
 git checkout -- archivo / archivos
 
 para agregar varios archivos a la vez 
-git add -A/--all 
+git add -A/--all o .
+
+
+git restor archivo o punto para todo los cambios antes del commit 
+
+manejo de ramas
+
+comando git branch 
+creamos una version/rama con 
+git branch nombreversion
+
+nos cambiamos de version con
+git checkout version "fenos"
+git checkout tambien permite moverte en el tempo entre los commit 
+
+con comando git checkout frenos nos cambiamos a version frenos
+verificamos con git branch 
+moverse tambien entre rama 
+git switch rama
+
+UNIR RAMOAS
+
+
+creando repo en <i class="fa fa-github
+…or create a new repository on the command line
+echo "# induccionusogit" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ronald1781/induccionusogit.git
+git push -u origin main" aria-hidden="true"></i> 
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/ronald1781/induccionusogit.git
+git branch -M main
+git push -u origin main 
