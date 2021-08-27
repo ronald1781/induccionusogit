@@ -64,6 +64,7 @@ git merge rama
 ver ramas con grafico
 
 git log --oneline --graph
+git log --oneline --decorate --all --graph
 
 creando repo en <i class="fa fa-github
 …or create a new repository on the command line
@@ -79,3 +80,13 @@ git push -u origin main" aria-hidden="true"></i>
 git remote add origin https://github.com/ronald1781/induccionusogit.git
 git branch -M main
 git push -u origin main 
+
+git remote add origin https://github.com/mymrys/almacen.git
+git push -u origin main 
+
+git branch -m main developer
+git fetch origin
+git branch -u origin/developer developer
+git remote set-head origin -a
+
+
