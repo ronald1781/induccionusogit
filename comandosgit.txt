@@ -58,7 +58,8 @@ moverse tambien entre rama
 git switch rama
 
 UNIR RAMAS
-
+git checkout rama master o adicional
+git merge rama 
 
 creando repo en <i class="fa fa-github
 …or create a new repository on the command line
