@@ -49,7 +49,7 @@ creamos una version/rama con
 git branch nombreversion
 
 nos cambiamos de version con
-git checkout version "fenos"
+git checkout version "frenos"
 git checkout tambien permite moverte en el tempo entre los commit 
 
 con comando git checkout frenos nos cambiamos a version frenos
@@ -57,7 +57,7 @@ verificamos con git branch
 moverse tambien entre rama 
 git switch rama
 
-UNIR RAMOAS
+UNIR RAMAS
 
 
 creando repo en <i class="fa fa-github
