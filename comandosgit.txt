@@ -32,9 +32,13 @@ git branch nombreversion
 
 nos cambiamos de version con
 git checkout version "fenos"
+git checkout tambien permite moverte en el tempo entre los commit 
 
 con comando git checkout frenos nos cambiamos a version frenos
 verificamos con git branch 
+
+git restor archivo o punto para todo los cambios antes del commit 
+
 
 creando repo en <i class="fa fa-github
 …or create a new repository on the command line
