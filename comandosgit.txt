@@ -25,10 +25,13 @@ restaurar un archivo al ultimo commit
 git checkout -- archivo / archivos
 
 para agregar varios archivos a la vez 
-git add -A/--all 
+git add -A/--all o .
 comando git branch 
 creamos una version con 
 git branch nombreversion
 
 nos cambiamos de version con
 git checkout version "fenos"
+
+con comando git checkout frenos nos cambiamos a version frenos
+verificamos con git branch 
