@@ -1,4 +1,6 @@
 para cambiar cuenta de git
 
-$ git remote set-url origin https://nuevousuario@github.com/owner/repo.git
+$ git remote set-url origin https://nuevousuario@github.com/owner/repo.git = https://ronald1781@github.com/ronald1781/induccionusogit.git
+
+git remote -v
 
