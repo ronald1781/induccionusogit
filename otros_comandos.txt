@@ -3,4 +3,12 @@ para cambiar cuenta de git
 $ git remote set-url origin https://nuevousuario@github.com/owner/repo.git = https://ronald1781@github.com/ronald1781/induccionusogit.git
 
 git remote -v
+----------------------------------------------------
+crear una rama desde un commit
+git log --all --decorate --oneline --graph
 
+ git checkout b0b86c9   // hacemos un checkout a un commit  en concreto
+git switch -c "develop"
+
+git push --set-upstream origin develop
+-----------------------------------------------------------------
